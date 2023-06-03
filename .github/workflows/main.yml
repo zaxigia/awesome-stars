@@ -1,19 +1,19 @@
 name: Update awesome list
 
-on:
+on: 
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '00 */1 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: simonecorsi/mawesome@latest
+        uses: simonecorsi/mawesome@v2
         with:
-          api-token: ${{ secrets.API_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          api-token: ${{ secrets.API_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
           github-name: ${{ github.repository_owner }}
