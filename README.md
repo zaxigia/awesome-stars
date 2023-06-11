@@ -94,7 +94,6 @@
 
 *   [yzfly/LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
 *   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-*   [dafeiyun/dafeiyun\_nginx\_firewall](https://github.com/dafeiyun/dafeiyun_nginx_firewall) -
 *   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
 *   [penislong/cf2dns](https://github.com/penislong/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
 *   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
@@ -126,8 +125,9 @@
 
 ## Shell
 
-*   [3Kmfi6HP/argo-airport-paas](https://github.com/3Kmfi6HP/argo-airport-paas) - Paas 平台接入V2board & 部署 Xray
+*   [3Kmfi6HP/argo-airport-paas](https://github.com/3Kmfi6HP/argo-airport-paas) - Paas & 容器平台接入V2board 机场前端 & 部署 Xray
 *   [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
+*   [dafeiyun/dafeiyun\_nginx\_firewall](https://github.com/dafeiyun/dafeiyun_nginx_firewall) -
 *   [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 *   [BlueSkyXN/DNS-AUTO-Switch](https://github.com/BlueSkyXN/DNS-AUTO-Switch) - 自动检测服务器故障，并自动使用API修改并切换DNS解析，支持华为云DNS和CloudFlareDNS，支持TG·telegram机器人推送
 *   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
