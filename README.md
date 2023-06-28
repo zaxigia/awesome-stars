@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [HTML](#html)
 *   [C#](#c)
-*   [Kotlin](#kotlin)
-*   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -30,24 +30,33 @@
 *   [EJS](#ejs)
 *   [Batchfile](#batchfile)
 
-## TypeScript
+## Kotlin
 
-*   [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
-*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
-*   [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
-*   [jsun969/uwall](https://github.com/jsun969/uwall) - 🏫 校园万能墙 \[CHINESE ONLY]
-*   [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
-*   [PingKuNet/aliyunpan](https://github.com/PingKuNet/aliyunpan) - 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver
-*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
-*   [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
+*   [x13a/Duress](https://github.com/x13a/Duress) - Duress password trigger.
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+## miscellaneous
+
+*   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+*   [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
+*   [su-seer/PaperMod-seersu](https://github.com/su-seer/PaperMod-seersu) -
+*   [yzfly/LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
+*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
+*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
+*   [penislong/cf2dns](https://github.com/penislong/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
+*   [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
+*   [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆),支付宝小程序
+*   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+*   [noobcfy/wikis](https://github.com/noobcfy/wikis) - wikis
+*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 
 ## JavaScript
 
+*   [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 *   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 *   [iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕小程序开源版-WordPress版微信小程序
@@ -82,7 +91,22 @@
 *   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 *   [ly525/luban-h5](https://github.com/ly525/luban-h5) - \[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
 *   [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
-*   [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+
+## TypeScript
+
+*   [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
+*   [jsun969/uwall](https://github.com/jsun969/uwall) - 🏫 校园万能墙 \[CHINESE ONLY]
+*   [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+*   [PingKuNet/aliyunpan](https://github.com/PingKuNet/aliyunpan) - 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver
+*   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
+*   [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+*   [RiverTwilight/YgkTool](https://github.com/RiverTwilight/YgkTool) - 🛠A simple, feature-rich, and efficient online toolbox  | 极简，强大，高效的在线工具箱，遵循MD设计规范
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+*   [ineo6/hosts](https://github.com/ineo6/hosts) - GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。
 
 ## Go
 
@@ -147,7 +171,6 @@
 *   [Neboer/CDNDrive](https://github.com/Neboer/CDNDrive) - :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 *   [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) - :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 *   [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## HTML
 
@@ -167,29 +190,6 @@
 *   [LightCountry/CoinConvertBot](https://github.com/LightCountry/CoinConvertBot) - 一款开源自动化USDT兑换TRX的Telegram机器人！
 *   [LightCountry/TokenPay](https://github.com/LightCountry/TokenPay) - ✅一款同时支持动态和静态收款地址收取TRX、USDT-TRC20、ETH系列区块链所有代币的支付解决方案！✅A payment solution that supports both dynamic and static payee addresses to receive TRX, USDT-TRC20, all tokens of ETH series blockchain!
 *   [xpnas/yopngs](https://github.com/xpnas/yopngs) - 纯粹图床,支持鉴黄,支持压缩,支持本地存储,COS存储,OSS存储,B2存储
-
-## Kotlin
-
-*   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-*   [x13a/Duress](https://github.com/x13a/Duress) - Duress password trigger.
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-## miscellaneous
-
-*   [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
-*   [su-seer/PaperMod-seersu](https://github.com/su-seer/PaperMod-seersu) -
-*   [yzfly/LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词。
-*   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
-*   [penislong/cf2dns](https://github.com/penislong/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
-*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
-*   [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
-*   [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆),支付宝小程序
-*   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
-*   [noobcfy/wikis](https://github.com/noobcfy/wikis) - wikis
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-*   [XJP-GIT/AntiZhaPian](https://github.com/XJP-GIT/AntiZhaPian) - 假的国家反诈中心
 
 ## PHP
 
