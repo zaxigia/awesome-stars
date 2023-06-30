@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [CoffeeScript](#coffeescript)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
@@ -29,6 +30,10 @@
 *   [Brainfuck](#brainfuck)
 *   [EJS](#ejs)
 *   [Batchfile](#batchfile)
+
+## CoffeeScript
+
+*   [joyqi/sfz](https://github.com/joyqi/sfz) - 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）
 
 ## TypeScript
 
@@ -137,7 +142,6 @@
 *   [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - 🤖 Telebot for E5 Renewal
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 *   [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 
 ## Vue
 
