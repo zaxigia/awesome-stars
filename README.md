@@ -131,7 +131,7 @@
 *   [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-*   [vastsa/AILink](https://github.com/vastsa/AILink) - ChatGPT4，Midjourney绘图，Cuade，Azure，轻应用模块，用户登录注册，邀请激励，在线支付，角色扮演，实时连续对话网页版，查询余额，自定义Key，代码显示高亮
+*   [vastsa/AILink](https://github.com/vastsa/AILink) - ChatGPT 商业版最强，ChatGPT4，Midjourney绘图，Claude，百度文心一言，Azure，轻应用模块，用户登录注册，邀请激励，在线支付，角色扮演，实时连续对话网页版，查询余额，自定义Key，代码显示高亮
 *   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
 *   [bitjerry/Microsoft-365-bot](https://github.com/bitjerry/Microsoft-365-bot) - Manage the Microsoft 365 Global by the telegram bot
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
