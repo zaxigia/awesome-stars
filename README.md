@@ -35,8 +35,8 @@
 *   [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) - A ChatGPT that supports plugins. TG: https://t.me/+bIZncGryj\_85MjYx
 *   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 The best on-chain and open-source blogging community for everyone.
 *   [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
-*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 *   [jsun969/uwall](https://github.com/jsun969/uwall) - 🏫 校园万能墙 \[CHINESE ONLY]
 *   [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
