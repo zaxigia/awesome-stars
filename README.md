@@ -4,11 +4,12 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [PHP](#php)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Shell](#shell)
 *   [Python](#python)
 *   [HTML](#html)
@@ -19,7 +20,6 @@
 *   [Java](#java)
 *   [Rust](#rust)
 *   [CSS](#css)
-*   [C](#c-1)
 *   [C++](#c-2)
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
@@ -30,10 +30,19 @@
 *   [Brainfuck](#brainfuck)
 *   [EJS](#ejs)
 
+## C
+
+*   [nginx-modules/ngx\_cache\_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx\_http\_(fastcgi|proxy|scgi|uwsgi)\_module cache backend
+*   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+*   [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
+*   [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+*   [hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u) - Padavan
+
 ## PHP
 
 *   [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha：味苦但微甜
-*   [dyedd/lanstar](https://github.com/dyedd/lanstar) - A Typecho Theme
+*   [dyedd/lanstar](https://github.com/dyedd/lanstar) - 一款三栏、简约、个性的typecho主题
 *   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
 *   [celaraze/chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
@@ -82,7 +91,6 @@
 *   [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 *   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 *   [crossfw/Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
-*   [penislong/alist](https://github.com/penislong/alist) - A file list program that supports multiple storage, powered by gin and React.
 
 ## TypeScript
 
@@ -257,14 +265,6 @@
 *   [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
 *   [sbaliyun/chatgpt-html](https://github.com/sbaliyun/chatgpt-html) -  chatgpt html online
 *   [azpanel/azpanel](https://github.com/azpanel/azpanel) - 可能是东半球最好用的azure非官方面板 Probably the best azure unofficial panel in the Eastern Hemisphere
-
-## C
-
-*   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-*   [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
-*   [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
-*   [hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u) - Padavan
 
 ## C++
 
