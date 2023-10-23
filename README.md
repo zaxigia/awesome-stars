@@ -33,6 +33,7 @@
 
 ## Go
 
+*   [ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
 *   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，可以作为图床使用，也可以作为网盘使用。
 *   [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 *   [linweiyuan/go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
@@ -226,7 +227,6 @@
 *   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 *   [noobcfy/wikis](https://github.com/noobcfy/wikis) - wikis
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 
 ## C\#
 
@@ -241,7 +241,7 @@
 *   [arcturus-script/ecloud](https://github.com/arcturus-script/ecloud) - 天翼云网盘签到 云函数
 *   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 *   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-*   [yzfly/LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词，结构化Prompt
+*   [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，结构化提示词，结构化Prompt
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
