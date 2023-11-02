@@ -121,7 +121,6 @@
 *   [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha
 *   [dyedd/lanstar](https://github.com/dyedd/lanstar) - 一款三栏、简约、个性的typecho主题
 *   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-*   [celaraze/chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的资产管理平台。资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架开发。
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 *   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
 *   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
@@ -143,7 +142,7 @@
 ## Kotlin
 
 *   [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，Demo数据预计这周末迁移到另外的服务器，请耐心等待
 *   [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 *   [x13a/Duress](https://github.com/x13a/Duress) - Duress password trigger.
 *   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
@@ -217,6 +216,7 @@
 *   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 *   [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
 *   [su-seer/PaperMod-seersu](https://github.com/su-seer/PaperMod-seersu) -
+*   [celaraze/wissets](https://github.com/celaraze/wissets) - ☕ 一个开源的、开放的资产管理平台。资产管理、归属/使用者追溯、盘点以及可靠的移动端应用支持。
 *   [zhheo/hexo-butterfly-editor](https://github.com/zhheo/hexo-butterfly-editor) - Butterfly魔改教程导航站
 *   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 *   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
