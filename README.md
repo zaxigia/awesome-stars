@@ -176,7 +176,7 @@
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 *   [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for self-hosting.
-*   [jsun969/uwall](https://github.com/jsun969/uwall) - 💬 校园万能墙 基于 Next.js & tRPC 的多功能校园表白墙/论坛系统
+*   [jsun969/uwall](https://github.com/jsun969/uwall) - 💬 校园万能墙 基于 Next.js(RSC) & tRPC 的多功能校园表白墙/论坛系统
 *   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 *   [PingKuNet/aliyunpan](https://github.com/PingKuNet/aliyunpan) - 小白羊 阿里云盘小白羊版 阿里云盘PC版 小白羊v3 aliyundriver
 *   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
