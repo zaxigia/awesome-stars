@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Go](#go)
-*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Vue](#vue)
@@ -30,6 +30,25 @@
 *   [Svelte](#svelte)
 *   [Lua](#lua)
 *   [Brainfuck](#brainfuck)
+
+## Shell
+
+*   [233boy/Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2、sing-box 八合一一键脚本
+*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
+*   [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
+*   [dafeiyun/dafeiyun\_nginx\_firewall](https://github.com/dafeiyun/dafeiyun_nginx_firewall) -
+*   [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
+*   [BlueSkyXN/DNS-AUTO-Switch](https://github.com/BlueSkyXN/DNS-AUTO-Switch) - 自动检测服务器故障，并自动使用API修改并切换DNS解析，支持华为云DNS和CloudFlareDNS，支持TG·telegram机器人推送
+*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+*   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
+*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
+*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+*   [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
+*   [yanncam/UnSHc](https://github.com/yanncam/UnSHc) - UnSHc - How to decrypt SHc \*.sh.x encrypted file ?
 
 ## TypeScript
 
@@ -122,24 +141,6 @@
 *   [assimon/epusdt](https://github.com/assimon/epusdt) - 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt
 *   [TitanWhoo/go-proxy-checker](https://github.com/TitanWhoo/go-proxy-checker) - High Performance HTTP(S) Proxy Checker Written in GO
 
-## Shell
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2、sing-box 八合一一键脚本
-*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
-*   [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
-*   [dafeiyun/dafeiyun\_nginx\_firewall](https://github.com/dafeiyun/dafeiyun_nginx_firewall) -
-*   [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
-*   [BlueSkyXN/DNS-AUTO-Switch](https://github.com/BlueSkyXN/DNS-AUTO-Switch) - 自动检测服务器故障，并自动使用API修改并切换DNS解析，支持华为云DNS和CloudFlareDNS，支持TG·telegram机器人推送
-*   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-*   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
-*   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
-*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-*   [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
-*   [yanncam/UnSHc](https://github.com/yanncam/UnSHc) - UnSHc - How to decrypt SHc \*.sh.x encrypted file ?
-
 ## miscellaneous
 
 *   [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
@@ -183,7 +184,6 @@
 *   [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system.
 *   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 *   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
 
 ## Vue
 
@@ -287,7 +287,7 @@
 
 ## Stylus
 
-*   [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and elegant theme for Hexo. It makes you more focused on writing.
+*   [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing.
 
 ## VBScript
 
