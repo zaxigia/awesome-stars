@@ -168,7 +168,7 @@
 *   [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha
 *   [dyedd/lanstar](https://github.com/dyedd/lanstar) - 一款三栏、简约、个性的typecho主题
 *   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-*   [celaraze/cat](https://github.com/celaraze/cat) - ☕ 一个开源的、开放的一站式 IT 运维管理平台。资产管理、工单、盘点以及可靠的移动端应用支持。
+*   [celaraze/cat](https://github.com/celaraze/cat) - ☕ CAT（Coffee And Tea）是一个开源的、开放的一站式 IT 运维管理平台。资产管理、工单、盘点以及可靠的移动端应用支持。
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 *   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
 *   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
