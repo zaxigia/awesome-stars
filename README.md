@@ -32,6 +32,7 @@
 
 ## Shell
 
+*   [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
 *   [chise0713/warp-reg.sh](https://github.com/chise0713/warp-reg.sh) - One-click register.
 *   [teddysun/shadowsocks\_install](https://github.com/teddysun/shadowsocks_install) - Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu
 *   [777boy/Xray](https://github.com/777boy/Xray) - Best for Xray-core one-click installation scripts & management scripts (Alpine OS)
@@ -59,7 +60,6 @@
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 *   [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 *   [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
-*   [hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u) - Padavan
 
 ## Go
 
