@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -23,12 +24,18 @@
 *   [CoffeeScript](#coffeescript)
 *   [Java](#java)
 *   [Rust](#rust)
-*   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
 *   [VBScript](#vbscript)
 *   [Ruby](#ruby)
 *   [Svelte](#svelte)
+
+## CSS
+
+*   [yhl452493373/frps-panel](https://github.com/yhl452493373/frps-panel) - frps-panel 是 https://github.com/fatedier/frp 的一个服务端插件，用于支持多用户鉴权，同时用于展示服务器信息。
+*   [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
+*   [sbaliyun/chatgpt-html](https://github.com/sbaliyun/chatgpt-html) -  chatgpt html online
+*   [azpanel/azpanel](https://github.com/azpanel/azpanel) - 可能是东半球最好用的 azure 和 aws ec2 非官方开机面板 Possibly the most user-friendly unofficial startup panel for Azure and AWS EC2 in the Eastern Hemisphere.
 
 ## Go
 
@@ -133,7 +140,7 @@
 *   [OpenStick/OpenStick](https://github.com/OpenStick/OpenStick) - reverse engineering on msm8916 based 4G modem.
 *   [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆),支付宝小程序
 *   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 *   [noobcfy/wikis](https://github.com/noobcfy/wikis) - wikis
 
 ## Batchfile
@@ -215,7 +222,6 @@
 *   [licson/beefyasian-pay](https://github.com/licson/beefyasian-pay) - WHMCS USDT Payment Gateway.
 *   [Nyarime/Chevereto-China](https://github.com/Nyarime/Chevereto-China) - 基于PHP的图片托管(图床)程序, 部署属于自己的图床
 *   [wuruiwm/msautocreate](https://github.com/wuruiwm/msautocreate) - 微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样
-*   [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system.
 
 ## Vue
 
@@ -278,12 +284,6 @@
 *   [rust-net/tcp2ws](https://github.com/rust-net/tcp2ws) - TCP to WebSocket
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 *   [arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) - nftables nat rule generator——nftables nat规则生成器
-
-## CSS
-
-*   [mengkunsoft/lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍 让我帮你百度一下？Let Me Baidu That For You
-*   [sbaliyun/chatgpt-html](https://github.com/sbaliyun/chatgpt-html) -  chatgpt html online
-*   [azpanel/azpanel](https://github.com/azpanel/azpanel) - 可能是东半球最好用的 azure 和 aws ec2 非官方开机面板 Possibly the most user-friendly unofficial startup panel for Azure and AWS EC2 in the Eastern Hemisphere.
 
 ## Dockerfile
 
