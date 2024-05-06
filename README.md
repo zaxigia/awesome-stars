@@ -82,7 +82,6 @@
 *   [bitjerry/Microsoft-365-bot](https://github.com/bitjerry/Microsoft-365-bot) - Manage the Microsoft 365 Global by the telegram bot
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 *   [HyukIsBack/KARMA-DDoS](https://github.com/HyukIsBack/KARMA-DDoS) - DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
-*   [GGttyyy/Euserv\_extend\_pin](https://github.com/GGttyyy/Euserv_extend_pin) - Euserv\_extend captcha solver + pin code(Gmail)
 
 ## JavaScript
 
@@ -222,6 +221,7 @@
 *   [licson/beefyasian-pay](https://github.com/licson/beefyasian-pay) - WHMCS USDT Payment Gateway.
 *   [Nyarime/Chevereto-China](https://github.com/Nyarime/Chevereto-China) - 基于PHP的图片托管(图床)程序, 部署属于自己的图床
 *   [wuruiwm/msautocreate](https://github.com/wuruiwm/msautocreate) - 微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样
+*   [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system.
 
 ## Vue
 
