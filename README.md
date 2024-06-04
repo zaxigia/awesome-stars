@@ -56,7 +56,6 @@
 *   [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 *   [BlueSkyXN/DNS-AUTO-Switch](https://github.com/BlueSkyXN/DNS-AUTO-Switch) - 自动检测服务器故障，并自动使用API修改并切换DNS解析，支持华为云DNS和CloudFlareDNS，支持TG·telegram机器人推送
 *   [LoveesYe/cdnflydadao](https://github.com/LoveesYe/cdnflydadao) - CDN
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 *   [Aranxu/NodePanels](https://github.com/Aranxu/NodePanels) - Nodepanels - 安全,私密,好用的云端服务器集群管理系统
 *   [Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy) - 一个多服务器端口租用管理面板
 *   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
@@ -288,6 +287,7 @@
 ## Dockerfile
 
 *   [Gladtbam/ms365\_e5\_renewx](https://github.com/Gladtbam/ms365_e5_renewx) - Microsoft365 E5 Renew X Docker 镜像
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 ## Stylus
 
