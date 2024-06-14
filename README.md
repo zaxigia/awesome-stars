@@ -104,6 +104,7 @@
 *   [arcturus-script/ecloud](https://github.com/arcturus-script/ecloud) - 天翼云网盘签到 云函数
 *   [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 *   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+*   [celaraze/cela](https://github.com/celaraze/cela) -
 *   [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -207,7 +208,6 @@
 *   [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha
 *   [dyedd/lanstar](https://github.com/dyedd/lanstar) - 一款三栏、简约、个性的typecho主题
 *   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-*   [celaraze/cat](https://github.com/celaraze/cat) - ☕ CAT（Coffee And Tea）是一个开源的、开放的一站式 IT 运维管理平台。资产管理、工单、盘点以及可靠的移动端应用支持。
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 *   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
 *   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
