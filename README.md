@@ -159,7 +159,6 @@
 *   [xcode75/XManagerPlus](https://github.com/xcode75/XManagerPlus) - An Xray Manager
 *   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 *   [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 自用书源（网络小说）
-*   [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
 *   [zhheo/hexo-butterfly-editor](https://github.com/zhheo/hexo-butterfly-editor) - Butterfly魔改教程导航站
 *   [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 *   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
@@ -209,6 +208,7 @@
 *   [BigCoke233/matcha](https://github.com/BigCoke233/matcha) - 🍵 Typecho Theme Matcha
 *   [dyedd/lanstar](https://github.com/dyedd/lanstar) - 一款三栏、简约、个性的typecho主题
 *   [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
+*   [aazooo/zjmf](https://github.com/aazooo/zjmf) - 魔方财务和魔方云系统开心扩展
 *   [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
 *   [oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance) - 微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。
 *   [Tai7sy/card-system](https://github.com/Tai7sy/card-system) - 卡密商城系统，高效安全的在线卡密商城
