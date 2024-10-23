@@ -260,7 +260,7 @@
 *   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 *   [xiaokuqwq/ipcf.tk](https://github.com/xiaokuqwq/ipcf.tk) - SaaS的加速域名
 *   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
-*   [arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) - nftables nat rule generator——nftables nat规则生成器
+*   [arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust) - nftables nat规则生成器
 
 ## CoffeeScript
 
