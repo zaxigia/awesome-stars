@@ -112,6 +112,7 @@
 *   [vastsa/AILink](https://github.com/vastsa/AILink) - AiLink
 *   [zas023/JdBuyer](https://github.com/zas023/JdBuyer) - 京东抢购自动下单助手，GUI 支持 Windows 和 macOS
 *   [bitjerry/Microsoft-365-bot](https://github.com/bitjerry/Microsoft-365-bot) - Manage the Microsoft 365 Global by the telegram bot
+*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 *   [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 *   [HyukIsBack/KARMA-DDoS](https://github.com/HyukIsBack/KARMA-DDoS) - DDoS Script (DDoS Panel) with Multiple Bypass ( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )
 
@@ -146,7 +147,6 @@
 *   [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 *   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 *   [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
-*   [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 *   [Vpay-Collection/VPay](https://github.com/Vpay-Collection/VPay) - 个人第四方收款方案
 *   [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
