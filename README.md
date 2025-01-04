@@ -36,7 +36,7 @@
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 *   [nginx-modules/ngx\_cache\_purge](https://github.com/nginx-modules/ngx_cache_purge) - nginx module which support to purge ngx\_http\_(fastcgi|proxy|scgi|uwsgi)\_module cache backend
 *   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 *   [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
 *   [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 
