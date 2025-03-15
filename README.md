@@ -64,7 +64,7 @@
 *   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 *   [iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕小程序开源版-WordPress版微信小程序
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-*   [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus) - 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
+*   [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus) - 别问我为什么大杂烩放在一块，懒得新建项目
 *   [wenhaomin/ChatGPT-PromptGenius](https://github.com/wenhaomin/ChatGPT-PromptGenius) - All-purpose prompts website with hierarchical classification system. Helps you quickly find and share wonderful prompts!  全面、有效的提示词大全网站，帮助提升生产力和质量。
 *   [leochen-g/wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书,全能微信机器人管理平台,简单的方式接入ChatGPT,FastGPT,Dify,Coze,扣子,DeepSeek.支持绘图，语音识别，语音发送，定时任务，支持企微、公众号、5G 消息、WhatsApp
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
