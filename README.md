@@ -54,7 +54,6 @@
 
 *   [kuroChef/PixivPreviewer](https://github.com/kuroChef/PixivPreviewer) - pixiv previewer js script
 *   [DiamondHunters/NodeInject\_Hook\_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
-*   [3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - Use Cloudflare pages and worker serverless to implement VLESS protocol
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 *   [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) -
@@ -93,6 +92,7 @@
 *   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 *   [byxiaoguai/musicService](https://github.com/byxiaoguai/musicService) -
 *   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+*   [semicons/java\_oci\_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
 
 ## C
 
@@ -102,6 +102,7 @@
 *   [ADD-SP/ngx\_waf](https://github.com/ADD-SP/ngx_waf) - Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 *   [asterisk/asterisk](https://github.com/asterisk/asterisk) - The official Asterisk Project repository.
+*   [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 
 ## Shell
 
@@ -229,7 +230,6 @@
 *   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 *   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 *   [licson/beefyasian-pay](https://github.com/licson/beefyasian-pay) - WHMCS USDT Payment Gateway.
-*   [Nyarime/Chevereto-China](https://github.com/Nyarime/Chevereto-China) - 基于PHP的图片托管(图床)程序, 部署属于自己的图床
 *   [wuruiwm/msautocreate](https://github.com/wuruiwm/msautocreate) - 微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样
 
 ## Vue
