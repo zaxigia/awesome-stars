@@ -185,7 +185,7 @@
 
 ## TypeScript
 
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 *   [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 *   [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) -
