@@ -231,6 +231,7 @@
 *   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 *   [licson/beefyasian-pay](https://github.com/licson/beefyasian-pay) - WHMCS USDT Payment Gateway.
 *   [wuruiwm/msautocreate](https://github.com/wuruiwm/msautocreate) - 微软全局管理自助申请程序 支持a1 a3 e3 e5等订阅，使用方法一样
+*   [UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system.
 
 ## Vue
 
@@ -246,7 +247,6 @@
 
 *   [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - 不再维护，自寻替代品。 Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 *   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
-*   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 
 ## Objective-C
 
