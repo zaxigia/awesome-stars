@@ -22,6 +22,7 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [CoffeeScript](#coffeescript)
+*   [Blade](#blade)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Rust](#rust)
 *   [Dockerfile](#dockerfile)
@@ -180,7 +181,6 @@
 *   [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 *   [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 *   [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-*   [celaraze/sebastian](https://github.com/celaraze/sebastian) - Sebastian is a LLM assistant with the ability to have permanent memory.
 *   [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 *   [vastsa/AILink](https://github.com/vastsa/AILink) - AiLink
@@ -273,6 +273,10 @@
 ## CoffeeScript
 
 *   [joyqi/sfz](https://github.com/joyqi/sfz) - 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）
+
+## Blade
+
+*   [celaraze/cat](https://github.com/celaraze/cat) - Sebastian is a LLM assistant with the ability to have permanent memory.
 
 ## Jupyter Notebook
 
