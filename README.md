@@ -99,7 +99,7 @@
 *   [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 *   [byxiaoguai/musicService](https://github.com/byxiaoguai/musicService) -
 *   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-*   [semicons/java\_oci\_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
+*   [semicons/java\_oci\_manage](https://github.com/semicons/java_oci_manage) - Multi-cloud management with Web SSH terminal, host dashboard, cloud panel, and Telegram bot — 多云管理：Web SSH 终端 + 云管理面板 + Telegram 机器人，支持 OCI / AWS / Azure / SolusVM
 
 ## C
 
