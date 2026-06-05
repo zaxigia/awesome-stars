@@ -61,7 +61,7 @@
 *   [insoxin/China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆),支付宝小程序
 *   [linwoodpendleton/nginx\_proxy\_conf](https://github.com/linwoodpendleton/nginx_proxy_conf) - nginx任意反向代理配置(支持github,ip138,google)
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home.
 *   [noobcfy/wikis](https://github.com/noobcfy/wikis) - wikis
 
 ## JavaScript
